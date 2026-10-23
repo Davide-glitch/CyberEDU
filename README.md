@@ -24,13 +24,3 @@ This repository contains write-ups, analysis, and exploit scripts for challenges
 | Steganography         | 0      |
 | Threat Hunting        | 0      |
 | Web Security          | 0      |
-
-## Repository Structure
-
-Each category folder contains subdirectories dedicated to individual challenges:
-
-```text
-challenges/<category>/<challenge-name>/
-├── README.md    # Analysis, vulnerability details, and solution steps
-└── solve.py     # Automation / exploit script (if applicable)
-```
