@@ -17,7 +17,7 @@ This repository contains write-ups, analysis, and exploit scripts for challenges
 | Machine Learning / AI | 0      |
 | Mobile Security       | 0      |
 | Network               | 0      |
-| OSINT                 | 0      |
+| OSINT                 | 1      |
 | Programming           | 0      |
 | Pwn                   | 0      |
 | Reverse Engineering   | 0      |
