@@ -10,7 +10,7 @@ This repository contains write-ups, analysis, and exploit scripts for challenges
 | Code Review           | 0      |
 | Cryptography          | 0      |
 | Cross-Site Scripting  | 0      |
-| Forensics             | 0      |
+| Forensics             | 1      |
 | Heap Overflow         | 0      |
 | Malware               | 0      |
 | Miscellaneous         | 0      |
